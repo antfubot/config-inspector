@@ -27,7 +27,7 @@ catalog:
   '@playwright/test': ^1.60.0
   '@shikijs/langs-precompiled': ^4.1.0
   '@shikijs/transformers': ^4.1.0
-  '@typescript-eslint/utils': ^8.59.4
+  '@typescript-eslint/utils': ^8.62.0
   '@unocss/eslint-config': ^66.7.0
   '@unocss/nuxt': ^66.7.0
   '@vueuse/nuxt': ^14.3.0
